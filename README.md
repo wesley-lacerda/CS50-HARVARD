@@ -9,33 +9,33 @@ I highly recommend this course to those who want to start programming with Pytho
 ## Summary of CS50’s Introduction to Programming with Python
 
 1. Building Blocks of Python
-
+   
 	•	**Functions & Variables:** The foundation of structuring code and storing values.
+	
+	•	**Conditionals:** Enabled decision-making in programs.
+	
+	•	**Loops:** Essential for iteration and automation.
 
-  •	**Conditionals:** Enabled decision-making in programs.
-
-  •	**Loops:** Essential for iteration and automation.
-
-2. Handling Errors & Writing Robust Code
-
+3. Handling Errors & Writing Robust Code
+   
 	•	**Exceptions & Error Handling:** Prevent crashes and manage unexpected scenarios.
+	
+	•	**Testing:** Ensured code reliability and future-proofing against bugs.
 
-  •	**Testing:** Ensured code reliability and future-proofing against bugs.
-
-3. Working with Data & Files
-
+5. Working with Data & Files
+   
 	•	**File I/O**: Allowed reading/writing data to files, including CSVs and images.
-
-  •	**Regular Expressions:** Helped extract, validate, and manipulate text efficiently.
+	
+	•	**Regular Expressions:** Helped extract, validate, and manipulate text efficiently.
 
 4. Organizing & Structuring Code
-
+   
 	•	**Libraries & Modules:** Encouraged code reuse and modular programming.
-
+	
 	•	**Object-Oriented Programming (OOP):** Introduced encapsulation and real-world modeling.
 
-5. Advanced Tools & Techniques
-
+6. Advanced Tools & Techniques
+   
 	•	**List & Dictionary Comprehensions:** Provided more concise ways to manipulate data.
-
-  •	**Additional Python Features:** Expanded problem-solving capabilities beyond the basics.
+	
+	•	**Additional Python Features:** Expanded problem-solving capabilities beyond the basics.
