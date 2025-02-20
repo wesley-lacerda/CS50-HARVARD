@@ -1,9 +1,12 @@
 # CS50-HARVARD
+
 Introduction to Programming with Python
+
+*My review after finish the course (Munich, February 2025):*
 
 I highly recommend this course to those who want to start programming with Python. Personally, I have a strong background in analysis, where I have used data to create scenarios, understand what is happening, identify problems, and determine the best course of action. However, until now, I had always used Excel for data manipulation and PowerPoint for visualization. After completing this course, I feel that I got the basic needs to pursue my studies using Python to become a Data Scientist. Professor David Malan has an excellent teaching methodology and communicates complex concepts in an easy and understandable way.
 
-Summary of CS50’s Introduction to Programming with Python
+## Summary of CS50’s Introduction to Programming with Python
 
 1. Building Blocks of Python
 
