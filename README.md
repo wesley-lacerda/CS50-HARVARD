@@ -1,41 +1,35 @@
-# CS50-HARVARD
+#  **YEARLY GOALS MAP**
 
-Introduction to Programming with Python
+### Video Demo: https://youtu.be/WvFZUT4bQ54
 
-*My review after finish the course (Munich, February 2025):*
+## **Description:**
 
-I highly recommend this course to those who want to start programming with Python. Personally, I have a strong background in analysis, where I have used data to create scenarios, understand what is happening, identify problems, and determine the best course of action. However, until now, I had always used Excel for data manipulation and PowerPoint for visualization. After completing this course, I feel that I got the basic needs to pursue my studies using Python to become a Data Scientist. Professor David Malan has an excellent teaching methodology and communicates complex concepts in an easy and understandable way.
+Every new year comes with a new list of goals, which will probably be left behind at some point.
 
-## Summary of CS50’s Introduction to Programming with Python
+With that in mind, this final project is an interface built with Python to help users register their personal goals. It allows users to:
 
-1. Building Blocks of Python
-   
-	•	**Functions & Variables:** The foundation of structuring code and storing values.
-	
-	•	**Conditionals:** Enabled decision-making in programs.
-	
-	•	**Loops:** Essential for iteration and automation.
+	•	Add a Goal
+	•	List Goals
+	•	Mark a Goal as Completed
+	•	Update Goal Progress
+	•	View Progress
+	•	Show Time Until Due
+	•	Download a file containing all goal-related information
 
-3. Handling Errors & Writing Robust Code
-   
-	•	**Exceptions & Error Handling:** Prevent crashes and manage unexpected scenarios.
-	
-	•	**Testing:** Ensured code reliability and future-proofing against bugs.
+## **Project Requirements:**
 
-5. Working with Data & Files
-   
-	•	**File I/O**: Allowed reading/writing data to files, including CSVs and images.
-	
-	•	**Regular Expressions:** Helped extract, validate, and manipulate text efficiently.
+☑ Your project must be implemented in Python.
 
-4. Organizing & Structuring Code
-   
-	•	**Libraries & Modules:** Encouraged code reuse and modular programming.
-	
-	•	**Object-Oriented Programming (OOP):** Introduced encapsulation and real-world modeling.
+☑ Your project must have a main function and at least three additional functions, each accompanied by tests that can be executed with pytest.
 
-6. Advanced Tools & Techniques
-   
-	•	**List & Dictionary Comprehensions:** Provided more concise ways to manipulate data.
-	
-	•	**Additional Python Features:** Expanded problem-solving capabilities beyond the basics.
+☑ Your main function must be in a file called project.py, which should be located in the root (i.e., top-level folder) of your project.
+
+☑ Your three required custom functions (in addition to the main function) must also be in project.py and defined at the same indentation level as main (i.e., not nested under any classes or other functions).
+
+☑ Your test functions must be in a file called test_project.py, which should also be located in the root of your project. Ensure they have the same name as your custom functions, prefixed with test_ (e.g., test_custom_function for a function named custom_function in project.py).
+
+☑ You are welcome to implement additional classes and functions beyond the minimum requirements.
+
+☑ Implementing your project should require more time and effort than any of the course’s problem sets.
+
+☑ Any pip-installable libraries required by your project must be listed, one per line, in a file called requirements.txt in the root of your project.
